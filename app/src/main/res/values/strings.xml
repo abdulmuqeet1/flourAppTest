@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">flourAppTest</string>
+
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign up</string>
+    <string name="auto_fill">to be provided</string>
+
+
+    <string name="firstname">First Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="passwordsignup">Password</string>
+    <string name="confirmpassword">Confirm Password</string>
+    <string name="emailsignup">Email</string>
+    <string name="phoneno">Phone Number</string>
+
+
+
+    <string name="flouramount">Enter Amount</string>
+    <string name="confirm_button">Confirm</string>
+    <string name="unit">Kg</string>
+    <!--<string name="app_name">flourAppTest</string>-->
+</resources>
